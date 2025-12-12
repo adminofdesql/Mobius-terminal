@@ -105,6 +105,7 @@ The completion of the written academic thesis (To Be Announced).
 
 
 
-### Step 4: Output* **Passive:** Displays the probability distribution, highlighting the percentage likelihood of various raw outcomes.
+### Step 4: Output
+* **Passive:** Displays the probability distribution, highlighting the percentage likelihood of various raw outcomes.
 * **Active:** Outputs the specific set of Y variables (the "recipe") required to achieve the desired outcome (X=1).
 
